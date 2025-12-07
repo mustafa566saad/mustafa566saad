@@ -3,10 +3,12 @@ My name is Mustafa Mohammed. I’m a backend developer (.NET), and I’m current
 
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-mohammed-423357299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1C1uzxieNP/) 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mustafa_mohammed742) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-mohammed-423357299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.msaad566j@gmail.com) 
 

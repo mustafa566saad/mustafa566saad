@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Mustafa Mohammed. I’m a backend developer (.NET), and I’m currently a third-year student at the Faculty of Computer Science, Damanhour University.
+My name is Mustafa Mohammed. I’m a backend developer (.NET), and I’m currently a fourth-year student at the Faculty of Computer Science, Damanhour University.
 
 
 ## 🌐 Socials:
